@@ -1,9 +1,9 @@
 # AutoDamageDupe
-Originally discovered by kib023, one of the masterminds of a group none other than Turk30, and further improved to perfection by the developer of [Lunahook Client](https://lunahook.dev), we present to you: AutoDamageDupe, also known by some less informed people as the Gravel Dupe.
+Originally discovered by kib023, one of the masterminds of a group none other than Turk30, and further perfected by the developer of [Lunahook Client](https://lunahook.dev), we present to you: AutoDamageDupe, also known by some less informed people as the Gravel Dupe.
 
-Unfortunately, an unnamed skid from an unnamed group snitched on us to jj20051 after failing to reproduce this highly sophisticated dupe method along with his groupmates(well-known rats), so we collectively decided it was time to release this dupe to be used by everyone. Have fun porting this to your clients and please enjoy! AutoDamageDupe on top!
+Unfortunately, an unnamed skid from an unnamed group snitched on us to jj20051 after failing to reproduce this highly sophisticated dupe method along with his groupmates (well-known rats), so we have come to a collective decision to release this dupe to be used by everyone. Have fun porting this to your clients and please enjoy! AutoDamageDupe on top!
 
-**WARNING:** This code is licensed under the [Turk license](https://github.com/pooblic/AutoDamageDupe/blob/main/LICENSE). Violation of the terms of this license will be met with getting your grandma turked imminently!
+**WARNING:** This code is licensed under the [Turk license](https://github.com/pooblic/AutoDamageDupe/blob/main/LICENSE). Violation of this license will be met with immediate turking, including but not limited to your grandma!
 
 ## How to use
 Good news: there is an [easy-to-follow video guide](https://www.youtube.com/watch?v=JGUpYO2dtk4) available now!
@@ -25,6 +25,7 @@ Good news: there is an [easy-to-follow video guide](https://www.youtube.com/watc
 - **FraazT0** - dropping the hard truth
 - **Unnamed skid** - burying his group's and his own reputation even deeper down and giving us all a good laugh
 
+<!--
 ## Results
 The operation was a total success, please enjoy some of the memes we gathered along the way:
 ### FAKE
@@ -47,3 +48,4 @@ The operation was a total success, please enjoy some of the memes we gathered al
 
 ### Couldn't you just call it "Oyvey Paste"? Same thing.
 <img src="https://cdn.nest.rip/uploads/fcd3d4cd-7eeb-4b35-a6ed-58f55492511a.png">
+-->
